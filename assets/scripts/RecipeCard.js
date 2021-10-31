@@ -129,31 +129,31 @@ class RecipeCard extends HTMLElement {
       var img2 = document.createElement('img');
       switch (Math.round(searchForKey(data, 'aggregateRating')['ratingValue'])) {
         case 0:
-          img2.src = "/assets/images/icons/0-star.svg";
+          img2.src = "assets/images/icons/0-star.svg";
           img2.alt = "0 stars";
           break;
         case 1:
-          img2.src = "/assets/images/icons/1-star.svg";
+          img2.src = "assets/images/icons/1-star.svg";
           img2.alt = "1 stars";
           break;
         case 2:
-          img2.src = "/assets/images/icons/2-star.svg";
+          img2.src = "assets/images/icons/2-star.svg";
           img2.alt = "2 stars";
           break;
         case 3:
-          img2.src = "/assets/images/icons/3-star.svg";
+          img2.src = "assets/images/icons/3-star.svg";
           img2.alt = "3 stars";
           break;
         case 4:
-          img2.src = "/assets/images/icons/4-star.svg";
+          img2.src = "assets/images/icons/4-star.svg";
           img2.alt = "4 stars";
           break;
         case 5:
-          img2.src = "/assets/images/icons/5-star.svg";
+          img2.src = "assets/images/icons/5-star.svg";
           img2.alt = "5 stars";
           break;
         default:
-          img2.src = "/assets/images/icons/0-star.svg";
+          img2.src = "assets/images/icons/0-star.svg";
           img2.alt = "0 stars";
       }
       div1.appendChild(span1);
