@@ -1,0 +1,380 @@
+{
+    "@context": "https:\/\/schema.org",
+    "@type": "Recipe",
+    "@id": "https:\/\/www.tasteofhome.com\/recipes\/quick-ghost-cookies\/",
+    "headline": "Quick Ghost Cookies",
+    "prepTime": "PT30M",
+    "cookTime": "PT0M",
+    "totalTime": "PT30M",
+    "thumbnailUrl":"https:\/\/tmbidigitalassetsazure.blob.core.windows.net\/rms3-prod\/attachments\/37\/1200x1200\/exps2806_UH153291C04_29_4b.jpg",
+    "image": [
+        "https:\/\/tmbidigitalassetsazure.blob.core.windows.net\/rms3-prod\/attachments\/37\/1200x1200\/exps2806_UH153291C04_29_4b.jpg",
+        [
+            "https:\/\/cdn3.tmbi.com\/toh\/GoogleImages\/exps2806_UH153291C04_29_4b.jpg"
+        ],
+        [
+            "https:\/\/cdn3.tmbi.com\/toh\/GoogleImagesPostCard\/exps2806_UH153291C04_29_4b.jpg"
+        ]
+    ],
+    "recipeCategory": [
+        "Desserts"
+    ],
+    "description": "Spruce up store-bought cookies for the  holiday. These are a real hit with \"goblins\" of all ages. &mdash;Denise Smith, Lusk, Wyoming",
+    "recipeIngredient": [
+        "1 pound white candy coating, coarsely chopped",
+        "1 package (1 pound) Nutter Butter peanut butter cookies",
+        "Semisweet chocolate chips, melted",
+        "Wooden pop sticks"
+    ],
+    "recipeInstructions": "In a microwave, melt candy coating; stir until smooth. Dip cookies into coating, covering completely; allow excess to drip off. Place on waxed paper. ,    Brush ends with a pastry brush dipped in coating where fingers touched cookies. Let stand until set. If desired, use melted chocolate chips to pipe faces onto cookies. Insert pop sticks into cookies. Store in an airtight container.",
+    "recipeYield": "about 3 dozen.",
+    "@graph": [{
+        "@type": "Organization",
+        "name": "Taste of Home"
+    }],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "",
+        "fatContent": "",
+        "cholesterolContent": "",
+        "sodiumContent": "",
+        "carbohydrateContent": "",
+        "fiberContent": "",
+        "proteinContent": ""
+    },
+    "aggregateRating": {
+        "@context": "http:\/\/schema.org\/",
+        "@type": "AggregateRating",
+        "ratingValue": 4.111111,
+        "ratingCount": 18,
+        "worstRating": 1,
+        "bestRating": 5
+    },
+    "review": [
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2013-10-24",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "MarineMom_texas"
+            },
+            "reviewBody": "I made these to take to a meeting and everyone loved them. They are so easy to prepare and so cute. I'll be making these again and again.",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-29",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "acallies"
+            },
+            "reviewBody": "great project for my 3 y\/o twins; we had martian looking ghosts but had a blast",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2010-10-28",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "TerrieBNL"
+            },
+            "reviewBody": "At home, my boyfriend couldn't get enough of these.  At work, they went like hotcakes.  Easy to make, quick, and very yummy.  I would have put Excellent, but I usually leave that rating for Godiva like desserts  :D",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-29",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "soconnor59"
+            },
+            "reviewBody": "I made these for my niece's 8th b-day party which always has a Halloween theme. They were so simple, quick and easy to make.",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2010-11-01",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "foodeater"
+            },
+            "reviewBody": "I made these for a Halloween party and they were almost completely gone, i didn't even get to try one since people snatched them up to take home.  Everyone told me they were amazing and really cute.  I did use a toothpick to hold them with and used another toothpick to use a leverage to get the toothpick unlodged and then covered the hole.  they were slightly messy to make and the edges did not end up looking as perfect as the picture but all in all, I will definitely make them again!!!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2012-10-11",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "myoung916"
+            },
+            "reviewBody": "The recipe does not match the picture.  Do you use black icing or melted chocolate to outline?",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 1,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2010-10-19",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "MicheleMH"
+            },
+            "reviewBody": "very easy, lots of fun!!!  My son's birthday is around Halloween and we made them for his school snack as a change of pace from cupcake. Young children can help with putting on the eyes",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-29",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "eazahn"
+            },
+            "reviewBody": "Made these last night with my daughter. We had a great time making them. We've tasted a few and who doesn't love nutter butter cookies, and dip them in white chocolate??? Fantastic! I'm going to pick up more cookies and coating tonight as I'm afraid we won't have enough for her whole class since my hubby and kids love them so much!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 2,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2010-10-18",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "shonnaoquinn"
+            },
+            "reviewBody": "Made these for my daughter's kindergarten Halloween party and they were gone in a flash.  In fact, one Momma loaded up a napkin full and took 'em home.  Guess I need to make extras next time!!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2012-10-15",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "kipralph"
+            },
+            "reviewBody": "I made these easy cookies, however just used two mini chocolate chips for eyes.  I did not do an outline and they turned out very cute!!!!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2010-10-28",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "lowens1960"
+            },
+            "reviewBody": "I made these last year for my granddaughters b-day party which is always a Halloween theme.  This year I made them as witches toes for her party.  I added green food coloring to white chocolate discs(if you use the white bark it will seize up after adding food coloring).  Cut a black candy dot in half  and put in on the top as the toe nail.  They were as cute as the ghosts.  The kids loved them! Love the snowman idea also!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2012-09-25",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "clonnen589"
+            },
+            "reviewBody": "you never told us how to make the outline of the ghost!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 1,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-09-06",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "lydiab02"
+            },
+            "reviewBody": "These little ghosts are fantastic and easy to make. While it's a little difficult to coat the entire cookie, this recipe is rather simple and takes no time at all! This is one recipe that is usually on my list for the Halloween season.",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-08",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "egancm"
+            },
+            "reviewBody": "Been making these for years!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-09",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "Patti924"
+            },
+            "reviewBody": "These little ghosts are so easy to make and meet with such great reviews! I make them every Halloween. It's simply a tradition. Try them, everyone will love them!Patti StagnerArdmore, TN",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-27",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "MsNancy589"
+            },
+            "reviewBody": "Made these for our Halloween party - all kids (young and old) loved them.  They are easy to make, however, I also inserted a toothpick into the cookie filling and then dipped into the candy coating.  Will make again!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2010-10-12",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "vickisp"
+            },
+            "reviewBody": "Try using a lollipop stick in the peanut butter filling then spooning the white candy coating over the cookie...much easier than trying to dip the cookies then trying to cover your fingerprints and the candy coating won't melt on your fingers!",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 4,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        },
+        {
+            "@context": "http:\/\/schema.org\/",
+            "@type": "Review",
+            "datePublished": "2009-10-21",
+            "author": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Person",
+                "name": "viol9581"
+            },
+            "reviewBody": "These are the perfect Halloween treat.  The children (and their parents) look forward to receiving them every year.",
+            "reviewRating": {
+                "@context": "http:\/\/schema.org\/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        }
+    ],
+    "recipeCuisine": ""
+}
